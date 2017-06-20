@@ -58,7 +58,7 @@ project, or globally as a system wide executable.
 #### Locally
 
 Installing Composer locally is a matter of just running the installer in your
-project directory. See [the Download page](https://getcomposer.org/download/)
+project directory. The project directory might be _______________ or  ________________.  (I need more info here - maybe other so/will too?)  When you run Composer-setup.exe you will be asked to choose the command-line PHP  you wnt to use.  You can input it directly or browse for it.  It is usually ________________ or _________________  (I need more info here - maybe other so/will too?)  See [the Download page](https://getcomposer.org/download/)
 for instructions.
 
 The installer will just check a few PHP settings and then download
